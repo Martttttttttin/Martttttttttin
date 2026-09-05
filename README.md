@@ -1,10 +1,9 @@
-## Data lab notebook
+
 
 <div align="center">
 
 # Carlos Martin
 
-> Frontend or full-stack engineer
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=martttttttttin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218148620%3Fu%3Dce637fddd5e95832199d9582cf2822b7207f4f16%26v%3D4" alt="martttttttttin hero visual" />
